@@ -1,0 +1,13 @@
+Êþº¾   4 2  apresentacao/Jantar   javax/swing/JFrame qtde I <init> ()V Code
+      apresentacao/Mesa
+  
+     add *(Ljava/awt/Component;)Ljava/awt/Component;  Jantar dos N FilÃ³sofos
+     setTitle (Ljava/lang/String;)V
+     setDefaultCloseOperation (I)V
+      setSize (II)V
+  " # $ setLocationRelativeTo (Ljava/awt/Component;)V
+  & ' ( 
+setVisible (Z)V
+  * + ( setResizable LineNumberTable LocalVariableTable this Lapresentacao/Jantar; 
+SourceFile Jantar.java !                	        5*· 
+*» Y· ¶ W*¶ *¶ *šš¶ *¶ !*¶ %*¶ )±    ,   & 	            %  *  /  4  -       5 . /    0    1
